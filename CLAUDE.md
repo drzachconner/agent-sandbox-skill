@@ -13,3 +13,6 @@ Follow model routing rules in ~/.claude/CLAUDE.md. Default: sonnet for code task
   - **Agent sandbox prompts**: `\agent-sandboxes:<prompt>` maps to `.claude/skills/agent-sandboxes/prompts/<prompt>.md`
   - **Other Skills**: `\<skill>:<prompt>` maps to `.claude/skills/<skill>/<prompt>.md`
   - Properly fill in the variables in the command based on the `argument-hint` in the command file if it exists
+
+## Google Workspace Account
+GWS Profile: `personal`
